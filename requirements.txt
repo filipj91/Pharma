@@ -1,8 +1,6 @@
 matplotlib
 numpy
 pandas
-random
 seaborn
 sqlalchemy
 statsmodels
-warnings
