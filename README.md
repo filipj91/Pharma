@@ -8,8 +8,5 @@ A machine learning project for predicting pharmaceutical costs based on various 
 - Machine learning model development.
 - Integration with SQLAlchemy for database interaction.
 
-## Requirements
-Install dependencies with
-```bash
-pip install -r requirements.txt
-# Pharma
+## Interactive Dashboard
+An interactive dashboard for exploring the results of the program can be accessed here (https://projectpharma.streamlit.app).
