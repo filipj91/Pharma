@@ -4,3 +4,5 @@ pandas
 seaborn
 sqlalchemy
 statsmodels
+plotly
+
